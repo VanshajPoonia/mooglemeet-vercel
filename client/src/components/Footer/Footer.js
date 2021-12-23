@@ -8,7 +8,7 @@ const Footer = () => {
       Made with <HeartTwoTone twoToneColor="#eb2f96" /> By{" "}
       <a
         className="footer__link"
-        href="https://github.com/VanshajPoonia/Moogle-Meet"
+        href="https://github.com/VanshajPoonia/MoogleMeet-vercel"
         target="_blank"
         style={{ color: "#fdfdfd" }}
         rel="noreferrer"
